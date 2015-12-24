@@ -1,0 +1,7 @@
+{
+    "repos": "https://github.com/lodash-archive/lodash-fp",
+    "version": "0.10.2",
+    "description": "lodash with auto-curried iteratee-first data-last methods.",
+    "name": "lodash-fp",
+    "main": "lodash-fp.js"
+}
